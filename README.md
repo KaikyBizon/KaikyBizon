@@ -12,6 +12,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaikyBizon&show_icons=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaikyBizon&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Tecnologias que eu uso no meu dia:
 
 <div style="display: inline_block">
